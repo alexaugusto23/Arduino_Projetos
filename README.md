@@ -15,7 +15,8 @@
 * Resistor 240 Ohms 5%
 * Wires ou fios
 * Protoboard
-<img align="left" alt="matriz" width="380" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif">
+
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif)
 
 
 ## Display de 7 segmentos
@@ -26,7 +27,8 @@
 * Resistor 240 Ohms 5%
 * Wires ou fios
 * Protoboard
-<img align="left" alt="display_7_segmentos" width="180px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/display_7_segmentos.gif">
+
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/display_7_segmentos.gif)
 
 
 ## Farol
@@ -38,7 +40,8 @@
 * Capacitor
 * Wires ou fios
 * Protoboard
-<img align="left" alt="farol" width="180px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/farol.gif">
+
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/farol.gif)
 
 
 ## Leds Sequênciais
@@ -48,7 +51,8 @@
 * Button ou Botão
 * Wires ou fios
 * Protoboard
-<img align="left" alt="leds_sequênciais" width="380px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/leds_sequenciais.gif">
+
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/leds_sequenciais.gif)
 
 
  ## Robô
