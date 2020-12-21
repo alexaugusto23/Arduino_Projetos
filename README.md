@@ -16,7 +16,8 @@
 * Wires ou fios
 * Protoboard
 
-<img align="left" alt="matriz" width="480px" height="300px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif">
+<img align="left" alt="matriz" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif">
+
 
 ## Display de 7 segmentos
 
@@ -27,7 +28,8 @@
 * Wires ou fios
 * Protoboard
 
-<img align="left" alt="display_7_segmentos" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/display_7_segmentos.gif">
+<img align="left" alt="display_7_segmentos" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/display_7_segmentos.gif">
+
 
 ## Farol
 
@@ -39,7 +41,8 @@
 * Wires ou fios
 * Protoboard
 
-<img align="left" alt="farol" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/farol.gif">
+<img align="left" alt="farol" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/farol.gif">
+
 
 ## Leds Sequênciais
 
@@ -49,7 +52,8 @@
 * Wires ou fios
 * Protoboard
 
-<img align="left" alt="leds_sequênciais" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/leds_sequenciais.gif">
+<img align="left" alt="leds_sequênciais" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/leds_sequenciais.gif">
+
 
  ## Robô
 
@@ -64,14 +68,15 @@
 * Motor Dc 3-6v Caixa De Redução Eixo Duplo + Roda 68mm
 * Chassi de Acrílico
 
-<img align="left" alt="robô" width="480px" src="
+<img align="left" alt="robô" width="480px" height="150px" src="
 https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/robo.gif">
 
 <br>
-<img align="left" alt="robô_sensor_distancia" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif">
+<img align="left" alt="robô_sensor_distancia" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif">
 
 <br>
-<img align="left" alt="robô_servor_motor" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif">
+<img align="left" alt="robô_servor_motor" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif">
+
 
  ## Chave de Mercúrio
 
@@ -81,4 +86,4 @@ https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/robo.gif">
 * Bateria Lipo
 * Wires ou fios
 
-<img align="left" alt="sensor_mercurio" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_mercurio.gif">
+<img align="left" alt="sensor_mercurio" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_mercurio.gif">
