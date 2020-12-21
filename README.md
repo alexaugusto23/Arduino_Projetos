@@ -26,7 +26,7 @@
 * Resistor 240 Ohms 5%
 * Wires ou fios
 * Protoboard
-<img align="left" alt="display_7_segmentos" width="480px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/display_7_segmentos.gif">
+<img align="left" alt="display_7_segmentos" width="180px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/display_7_segmentos.gif">
 
 
 ## Farol
@@ -38,7 +38,7 @@
 * Capacitor
 * Wires ou fios
 * Protoboard
-<img align="left" alt="farol" width="480px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/farol.gif">
+<img align="left" alt="farol" width="180px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/farol.gif">
 
 
 ## Leds Sequênciais
@@ -63,7 +63,7 @@
 * Potênciometro
 * Motor Dc 3-6v Caixa De Redução Eixo Duplo + Roda 68mm
 * Chassi de Acrílico
-<img align="left" alt="robô_sensor_distancia" width="480px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif">
+<img align="left" alt="robô_sensor_distancia" width="180px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif">
 <img align="left" alt="robô_servor_motor" width="480px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif">
 
 
