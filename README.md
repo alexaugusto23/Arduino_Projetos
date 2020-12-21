@@ -16,8 +16,6 @@
 * Resistor 10 kOhms 5%
 * Resistor 240 Ohms 5%
 
-<br>
-
-<img align="left" alt="matriz" width="240px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif">
+<img align="left" alt="matriz" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif">
 
  
