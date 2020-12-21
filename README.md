@@ -72,6 +72,8 @@
 
 ![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif)
 
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/robo.gif)
+
 
  ## Chave de Mercúrio
 
@@ -80,6 +82,5 @@
 * led
 * Bateria Lipo
 * Wires ou fios
-src="">
 
 ![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_mercurio.gif)
