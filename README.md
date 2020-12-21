@@ -48,7 +48,7 @@
 * Button ou Botão
 * Wires ou fios
 * Protoboard
-<img align="left" alt="leds_sequênciais" width="auto" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/leds_sequenciais.gif">
+<img align="left" alt="leds_sequênciais" width="380px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/leds_sequenciais.gif">
 
 
  ## Robô
@@ -64,7 +64,7 @@
 * Motor Dc 3-6v Caixa De Redução Eixo Duplo + Roda 68mm
 * Chassi de Acrílico
 <img align="left" alt="robô_sensor_distancia" width="180px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif">
-<img align="left" alt="robô_servor_motor" width="480px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif">
+<img align="left" alt="robô_servor_motor" width="280px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif">
 
 
  ## Chave de Mercúrio
@@ -74,4 +74,7 @@
 * led
 * Bateria Lipo
 * Wires ou fios
-<img align="left" alt="sensor_mercurio" width="480px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_mercurio.gif">
+src="">
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_mercurio.gif)
+
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_mercurio.gif)
