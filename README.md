@@ -18,6 +18,7 @@
 
 <img align="left" alt="matriz" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif">
 
+<br>
 
 ## Display de 7 segmentos
 
@@ -30,6 +31,7 @@
 
 <img align="left" alt="display_7_segmentos" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/display_7_segmentos.gif">
 
+<br/>
 
 ## Farol
 
@@ -43,6 +45,7 @@
 
 <img align="left" alt="farol" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/farol.gif">
 
+<br/>
 
 ## Leds Sequênciais
 
@@ -71,12 +74,13 @@
 <img align="left" alt="robô" width="480px" height="150px" src="
 https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/robo.gif">
 
-<br>
+<br/>
 <img align="left" alt="robô_sensor_distancia" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif">
 
-<br>
+<br/>
 <img align="left" alt="robô_servor_motor" width="480px" height="150px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif">
 
+<br/>
 
  ## Chave de Mercúrio
 
