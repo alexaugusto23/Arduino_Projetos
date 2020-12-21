@@ -3,7 +3,7 @@
 
 ## Projetos < 🚀 >
 
-## Matrix de Led
+## Matriz de Led
 
 * Arduino Uno
 * Matriz de Led 8x8 mod: 1088BS
