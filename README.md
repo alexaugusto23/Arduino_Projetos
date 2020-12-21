@@ -16,7 +16,7 @@
 * Wires ou fios
 * Protoboard
 
-<img align="left" alt="matriz" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif">
+<img align="left" alt="matriz" width="480px" height="300px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/matriz_led_01.gif">
 
 ## Display de 7 segmentos
 
@@ -67,8 +67,10 @@
 <img align="left" alt="robô" width="480px" src="
 https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/robo.gif">
 
+<br>
 <img align="left" alt="robô_sensor_distancia" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif">
 
+<br>
 <img align="left" alt="robô_servor_motor" width="480px" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif">
 
  ## Chave de Mercúrio
