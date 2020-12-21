@@ -71,7 +71,7 @@
 * Motor Dc 3-6v Caixa De Redução Eixo Duplo + Roda 68mm
 * Chassi de Acrílico
 
-<img align="left" alt="robô" width="480px" height="auto" src="
+<img align="left" alt="robô" width="480px" height="600px" src="
 https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/robo.gif">
 
 <br/>
