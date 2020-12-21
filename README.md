@@ -63,8 +63,10 @@
 * Potênciometro
 * Motor Dc 3-6v Caixa De Redução Eixo Duplo + Roda 68mm
 * Chassi de Acrílico
-<img align="left" alt="robô_sensor_distancia" width="180px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif">
-<img align="left" alt="robô_servor_motor" width="280px" height="auto" src="https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif">
+
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_distancia.gif)
+
+![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/servor_motor.gif)
 
 
  ## Chave de Mercúrio
@@ -75,6 +77,5 @@
 * Bateria Lipo
 * Wires ou fios
 src="">
-![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_mercurio.gif)
 
 ![](https://github.com/alexaugusto23/Arduino_Projetos/blob/main/img/sensor_mercurio.gif)
